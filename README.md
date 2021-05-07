@@ -10,7 +10,7 @@ Uses node, express, mysql2, and sequelize. Run npm install to install. Npm run s
 Seed the data, connect to the server, and run the requests in insomnia to see how ecommerce functions in the back end.
 
 
-![A screenshot of the application](./assets/gif.GIF)
+![A screenshot of the application](./assets/gif.gif)
 
 link to application demo: https://youtu.be/KEf8TBHS-Yk
 
