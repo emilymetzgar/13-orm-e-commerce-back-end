@@ -12,7 +12,7 @@ Seed the data, connect to the server, and run the requests in insomnia to see ho
 
 ![A screenshot of the application](./assets/gif.gif)
 
-link to application demo: https://youtu.be/KEf8TBHS-Yk
+link to application demo: https://www.youtube.com/watch?v=79VQzKTsho0
 
 ## Credits
 Emily Metzgar
